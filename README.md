@@ -15,4 +15,4 @@ Current Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,jquery)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=webpack,github,git,jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arduino, c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c++)](https://skillicons.dev)
