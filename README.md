@@ -13,6 +13,6 @@ Check out my projects and, if you're feeling generous, I'm open to feedback on a
 Current Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,bootstrap,jquery)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=webpack,github,git,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino,cplusplus)](https://skillicons.dev)
