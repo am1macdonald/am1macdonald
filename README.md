@@ -6,7 +6,7 @@ I'm a full-stack web developer aspiring towards mastery in computer science.
 
 Currently working as an electronic / mechanical technician in the railway field. I'm always looking for ways to apply the troubleshooting, analytical and critical thinking skills I have earned along the way.
 
-Check out my projects and, if you're feeling generous, I'm open to feedback on anything I have built!
+Check out my projects, and, if you're feeling generous, I'm open to feedback on anything I have built!
 
 ---
 
