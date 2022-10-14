@@ -2,7 +2,7 @@
 
 ---
 
-I'm a front-end web developer aspiring towards proficiency at full-stack development.
+I'm a full-stack web developer aspiring towards mastery in computer science.
 
 Currently working as an electronic / mechanical technician in the railway field. I'm always looking for ways to apply the troubleshooting, analytical and critical thinking skills I have earned along the way.
 
