@@ -10,9 +10,9 @@ Check out my projects, and, if you're feeling generous, I'm open to feedback on 
 
 ---
 
-Current Skills
+Mu skill stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nextjs,react,bootstrap,jquery)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=webpack,github,git,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino,cplusplus)](https://skillicons.dev)
