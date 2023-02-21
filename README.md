@@ -1,10 +1,12 @@
-### Hi there 👋 I'm Adam
+### Hi, 👋 I'm Adam
 
 ---
 
 I'm a full-stack, angular developer aspiring towards mastery in computer science.
 
-Formerly, an electronic / mechanical technician in the railway field. I'm always looking for ways to apply the troubleshooting, analytical and critical thinking skills I have earned along the way.
+Formerly, an electronic / mechanical technician in the railway field. I'm always looking for ways to apply the troubleshooting, analytical and critical thinking skills I have learned through years of fixing problems in high-pressure environments.
+
+Currently I am bulding projects in my spare time with Svelete & Rust as my main stack.
 
 Check out my projects, and, if you're feeling generous, I'm open to feedback on anything I have built!
 
