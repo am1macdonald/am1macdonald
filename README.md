@@ -14,8 +14,8 @@ Check out my projects, and, if you're feeling generous, I'm open to feedback on 
 
 My skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nextjs,react,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,nextjs,react,bootstrap,jquery)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=webpack,github,git,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino,cplusplus)](https://skillicons.dev)
 
