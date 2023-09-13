@@ -25,4 +25,5 @@ My skill stack
 Currently Working on...
 
 Blog CMS - An app that can allow multiple users to make blog posts
+
 Brewtal - An app for coffee perfectionists to share brew profiles for their favorite beans and blends. [Repo](https://github.com/am1macdonald/brewtal).
