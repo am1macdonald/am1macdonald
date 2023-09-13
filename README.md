@@ -19,8 +19,10 @@ My skill stack
 [![My Skills](https://skillicons.dev/icons?i=webpack,github,git,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino,cplusplus)](https://skillicons.dev)
 
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=am1macdonald)](https://github.com/am1macdonald/github-readme-stats)
 ---
 
 Currently Working on...
 
+Blog CMS - An app that can allow multiple users to make blog posts
 Brewtal - An app for coffee perfectionists to share brew profiles for their favorite beans and blends. [Repo](https://github.com/am1macdonald/brewtal).
