@@ -2,13 +2,13 @@
 
 ---
 
-I'm a full-stack, JavaScript developer aspiring towards mastery in computer science.
+🚀 Full-Stack JavaScript Developer | Tech Enthusiast | Building with Svelte & Rust | Angular Pro
 
-Formerly, an electronic / mechanical technologist, I love working with all kinds of technology!
+Formerly an electronic/mechanical technologist, I've transitioned into the world of full-stack development. With a passion for all things tech, I'm on a quest for mastery in computer science.
 
-Currently I am bulding projects in my spare time with Svelete & Rust, but work with Angular professionally.
+Currently, I'm crafting exciting projects in my free time, exploring the power of Svelte & Rust, while professionally wielding the Angular toolkit. Dive into my projects, and if you're up for it, I welcome your valuable feedback on my creations!
 
-Check out my projects, and, if you're feeling generous, I'm open to feedback on anything I have built!
+Let's innovate and code the future together! 🌟
 
 ---
 
@@ -17,7 +17,9 @@ My skill stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,nextjs,react,bootstrap,jquery)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=webpack,github,git,jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arduino,cplusplus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,scala,rust)](https://skillicons.dev)
+
+[![Adam's GitHub trophys](https://github-profile-trophy.vercel.app/?username=am1macdonald&theme=tokyonight)](https://github.com/am1macdonald/github-readme-stats)
 
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=am1macdonald)](https://github.com/am1macdonald/github-readme-stats)
 ---
