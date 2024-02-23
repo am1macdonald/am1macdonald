@@ -26,8 +26,5 @@ My skill stack
 
 Currently Working on...
 
-A Blog & CMS - A blog website fed from a postrges backend and a separate CMS to support it/
+Pass Porter - An authentication system for my apps
 
-Brewtal - An app for coffee perfectionists to share brew profiles for their favorite beans and blends. [Repo](https://github.com/am1macdonald/brewtal).
-
-Pong Clone - A clone of Pong!
