@@ -2,13 +2,13 @@
 
 ---
 
-🚀 Full-Stack JavaScript Developer | Tech Enthusiast | Building with Svelte & Rust | Angular Pro
+🚀 Full-Stack JavaScript Developer | Tech Enthusiast | Building with GO & Python | Angular Pro
 
 Formerly an electronic/mechanical technologist, I've transitioned into the world of full-stack development. With a passion for all things tech, I'm on a quest for mastery in computer science.
 
-Currently, I'm crafting exciting projects in my free time, exploring the power of Svelte & Rust, while professionally wielding the Angular toolkit. Dive into my projects, and if you're up for it, I welcome your valuable feedback on my creations!
+Currently, I'm crafting exciting projects in my free time, exploring the power and capability of Go & Python, while professionally wielding the Angular toolkit. Dive into my projects, and if you're up for it, I welcome your valuable feedback on my creations!
 
-Let's innovate and code the future together! 🌟
+Let's get building! 🌟
 
 ---
 
