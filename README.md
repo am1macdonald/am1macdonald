@@ -26,5 +26,5 @@ My skill stack
 
 Currently Working on...
 
-Pass Porter - An authentication system for my apps
-
+Stipulera - AI-powered SaaS for generating privacy-policy & terms of service documents   
+TorontoWild - A community driven app for tracking wildlife sightings in Toronto
