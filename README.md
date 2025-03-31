@@ -1,5 +1,7 @@
 ### Hi, 👋 I'm Adam
 
+I am in the process of migrating to my self-hosted [Gitea](https://gitea.techcraftedbyadam.com/adam_macdonald). Please check out my new projects there!
+
 ---
 
 🚀 Full-Stack JavaScript Developer | Tech Enthusiast | Building with GO & Python | Angular Pro
